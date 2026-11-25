@@ -1,3 +1,2 @@
-# app-ads.txt for snackbraingames.com
-# Add the AdMob line below once the AdMob account exists (Account, Settings, Publisher ID):
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# app-ads.txt for snackbraingames.com (Snackbrain Games)
+google.com, pub-8455054211204346, DIRECT, f08c47fec0942fa0
